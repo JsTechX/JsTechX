@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JsTechX
-- 👀 I’m interested in Arduino & smartphone projects
-- 🌱 I’m currently learning Arduino & ESP32
-- 💞️ I’m looking to collaborate on Arduino, ESP32, & Visual Studio
+- 👀 I’m interested in Raspberry Pi & Node-Red projects
+- 🌱 I’m actively coding Raspberry Pi & Node-Red
+- 💞️ I’m looking to collaborate Raspberry Pi, Node-Red, & Server-client setups
 - 📫 How to reach me ...
 
 <!---
